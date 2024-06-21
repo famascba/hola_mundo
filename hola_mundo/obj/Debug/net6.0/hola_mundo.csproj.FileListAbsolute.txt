@@ -1,0 +1,15 @@
+C:\Desarrollos\APP_c#_consola\hola_mundo\bin\Debug\net6.0\hola_mundo.exe
+C:\Desarrollos\APP_c#_consola\hola_mundo\bin\Debug\net6.0\hola_mundo.deps.json
+C:\Desarrollos\APP_c#_consola\hola_mundo\bin\Debug\net6.0\hola_mundo.runtimeconfig.json
+C:\Desarrollos\APP_c#_consola\hola_mundo\bin\Debug\net6.0\hola_mundo.dll
+C:\Desarrollos\APP_c#_consola\hola_mundo\bin\Debug\net6.0\hola_mundo.pdb
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\hola_mundo.csproj.AssemblyReference.cache
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\hola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\hola_mundo.AssemblyInfoInputs.cache
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\hola_mundo.AssemblyInfo.cs
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\hola_mundo.csproj.CoreCompileInputs.cache
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\hola_mundo.dll
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\refint\hola_mundo.dll
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\hola_mundo.pdb
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\hola_mundo.genruntimeconfig.cache
+C:\Desarrollos\APP_c#_consola\hola_mundo\obj\Debug\net6.0\ref\hola_mundo.dll
